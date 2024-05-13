@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1714327564 source:c:\users\administrator\desktop\week12-2_obj_gundam_lower_hand\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1714327564 c:\users\administrator\desktop\week12-2_obj_gundam_lower_hand\glm.h
+	<GL/glut.h>
+
+1426320928 c:\users\administrator\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\users\administrator\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1714981602 source:c:\users\administrator\desktop\week12-2_obj_gundam_lower_hand\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+	<GL/glut.h>
+	"glm.h"
+
+1714985137 source:c:\users\administrator\desktop\week12-3_obj_gundam_body_upper_lower_\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1714985137 c:\users\administrator\desktop\week12-3_obj_gundam_body_upper_lower_\glm.h
+	<GL/glut.h>
+
+1715585115 source:c:\users\administrator\desktop\week12-3_obj_gundam_body_upper_lower_\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+	<GL/glut.h>
+	"glm.h"
+
+1714985137 source:c:\users\administrator\downloads\2024graphicsb-main\week12\week12-3_obj_gundam_body_upper_lower_\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1714985137 c:\users\administrator\downloads\2024graphicsb-main\week12\week12-3_obj_gundam_body_upper_lower_\glm.h
+	<GL/glut.h>
+
+1715582650 source:c:\users\administrator\downloads\2024graphicsb-main\week12\week12-3_obj_gundam_body_upper_lower_\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+	<GL/glut.h>
+	"glm.h"
+
